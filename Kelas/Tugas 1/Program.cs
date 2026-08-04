@@ -59,7 +59,7 @@ class BangunDatar
     public static void Eksekusi()
     {
         Console.Clear();
-        Console.WriteLine("=== MENU BANGUN DATAR ===");
+        Console.WriteLine("MENU BANGUN DATAR");
         KelilingPersegi(3);
         LuasPersegi(3, 5);
         Console.WriteLine("\nTekan tombol apa saja untuk kembali ke menu...");
@@ -99,7 +99,7 @@ class BangunRuang
     public static void Eksekusi()
     {
         Console.Clear();
-        Console.WriteLine("=== MENU BANGUN RUANG ===");
+        Console.WriteLine("MENU BANGUN RUANG");
         VolumeKubus(2);
         LuasPermukaanKubus(6);
         Console.WriteLine("\nTekan tombol apa saja untuk kembali ke menu...");
@@ -129,7 +129,7 @@ class Zodiak
     public static void CekZodiak()
     {
         Console.Clear();
-        Console.WriteLine("=== MENU ZODIAK ===");
+        Console.WriteLine("MENU ZODIAK");
         Console.Write("Masukkan tanggal lahir (1-31): ");
         int tanggal = Convert.ToInt32(Console.ReadLine());
         Console.Write("Masukkan bulan lahir (1-12) : ");
