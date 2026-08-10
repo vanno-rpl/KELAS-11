@@ -1,0 +1,10 @@
+C:\Users\revan\source\repos\TampilanShopee\TampilanShopee\bin\Debug\TampilanShopee.exe.config
+C:\Users\revan\source\repos\TampilanShopee\TampilanShopee\bin\Debug\TampilanShopee.exe
+C:\Users\revan\source\repos\TampilanShopee\TampilanShopee\bin\Debug\TampilanShopee.pdb
+C:\Users\revan\source\repos\TampilanShopee\TampilanShopee\obj\Debug\TampilanShopee.csproj.AssemblyReference.cache
+C:\Users\revan\source\repos\TampilanShopee\TampilanShopee\obj\Debug\TampilanShopee.Form1.resources
+C:\Users\revan\source\repos\TampilanShopee\TampilanShopee\obj\Debug\TampilanShopee.Properties.Resources.resources
+C:\Users\revan\source\repos\TampilanShopee\TampilanShopee\obj\Debug\TampilanShopee.csproj.GenerateResource.cache
+C:\Users\revan\source\repos\TampilanShopee\TampilanShopee\obj\Debug\TampilanShopee.csproj.CoreCompileInputs.cache
+C:\Users\revan\source\repos\TampilanShopee\TampilanShopee\obj\Debug\TampilanShopee.exe
+C:\Users\revan\source\repos\TampilanShopee\TampilanShopee\obj\Debug\TampilanShopee.pdb
