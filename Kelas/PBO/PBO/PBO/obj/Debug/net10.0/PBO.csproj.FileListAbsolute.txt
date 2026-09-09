@@ -1,0 +1,15 @@
+C:\Users\revan\OneDrive\Documents\PBO\PBO\PBO\bin\Debug\net10.0\PBO.exe
+C:\Users\revan\OneDrive\Documents\PBO\PBO\PBO\bin\Debug\net10.0\PBO.deps.json
+C:\Users\revan\OneDrive\Documents\PBO\PBO\PBO\bin\Debug\net10.0\PBO.runtimeconfig.json
+C:\Users\revan\OneDrive\Documents\PBO\PBO\PBO\bin\Debug\net10.0\PBO.dll
+C:\Users\revan\OneDrive\Documents\PBO\PBO\PBO\bin\Debug\net10.0\PBO.pdb
+C:\Users\revan\OneDrive\Documents\PBO\PBO\PBO\obj\Debug\net10.0\PBO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\revan\OneDrive\Documents\PBO\PBO\PBO\obj\Debug\net10.0\PBO.AssemblyInfoInputs.cache
+C:\Users\revan\OneDrive\Documents\PBO\PBO\PBO\obj\Debug\net10.0\PBO.AssemblyInfo.cs
+C:\Users\revan\OneDrive\Documents\PBO\PBO\PBO\obj\Debug\net10.0\PBO.csproj.CoreCompileInputs.cache
+C:\Users\revan\OneDrive\Documents\PBO\PBO\PBO\obj\Debug\net10.0\PBO.dll
+C:\Users\revan\OneDrive\Documents\PBO\PBO\PBO\obj\Debug\net10.0\refint\PBO.dll
+C:\Users\revan\OneDrive\Documents\PBO\PBO\PBO\obj\Debug\net10.0\PBO.pdb
+C:\Users\revan\OneDrive\Documents\PBO\PBO\PBO\obj\Debug\net10.0\PBO.genruntimeconfig.cache
+C:\Users\revan\OneDrive\Documents\PBO\PBO\PBO\obj\Debug\net10.0\ref\PBO.dll
+C:\Users\revan\OneDrive\Documents\PBO\PBO\PBO\obj\Debug\net10.0\PBO.csproj.Up2Date
